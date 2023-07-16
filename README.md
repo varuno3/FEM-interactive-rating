@@ -29,7 +29,7 @@ Users should be able to:
 
 - Mobile-view : ![](./Screenshots/Mobile-view.png)
 - Desktop-view : ![](./Screenshots/Desktop-view.png)
-- Working-video : ![](./Screenshots/Working%20video.mp4)
+- Working-video : (./Screenshots/Working%20video.mp4)
 
 ### Links
 
@@ -51,6 +51,6 @@ You can see them being used in both my JS files.
 
 ## Author
 
-- Name & Email - [Varun Badoni](varunbadoni987@gmail.com)
+- Name & Email - Varun Badoni[varunbadoni987@gmail.com]
 - Frontend Mentor - [@varuno3](https://www.frontendmentor.io/profile/varuno3)
 
